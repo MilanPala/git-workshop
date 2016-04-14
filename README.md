@@ -1,3 +1,4 @@
 # git-workshop
 
-Něco
+Něco tu bude brzy.
+
